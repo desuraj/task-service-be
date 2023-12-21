@@ -12,10 +12,10 @@ The Task Service is a Spring Boot application that provides RESTful APIs for man
 
 ### Prerequisites
 
-- Java 8 or later
+- Java 11
 - Maven
-- Your preferred IDE (Eclipse, IntelliJ, etc.)
-- Database (e.g., PostgreSQL)
+- Your preferred IDE Eclipse
+- Database PostgreSQL
 
 ### Installation
 
@@ -28,7 +28,7 @@ The Task Service is a Spring Boot application that provides RESTful APIs for man
 2. Navigate to the project directory:
 
     ```bash
-    cd task-service
+    cd task-service-be
     ```
 
 3. Configure the database connection in `src/main/resources/application.properties`.
